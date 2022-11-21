@@ -1,1 +1,1 @@
-«Vagrant file for lesson 1»
+# OTUS_Lesson1
